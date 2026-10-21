@@ -1,0 +1,1 @@
+var e=`/RZiA-Vector-Downloads/assets/pdf.worker.min-Dkey6ZUl.mjs`;export{e as default};
